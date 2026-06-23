@@ -29,7 +29,7 @@ MiniGPT-From-Scratch/
 │
 ├── MiniGPT.ipynb
 ├── input.txt
-├── README.md
+└── README.md
 
 ---
 
